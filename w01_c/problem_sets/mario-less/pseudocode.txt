@@ -1,0 +1,27 @@
+* --  NOTES -- *
+
+ the user decides how many # in height the pyramid has (between 1 and 8)
+	reprompt if not between 1 and 8
+
+loop until i reaches height
+i = 0, i < height, i++
+print spaces the amount of times of (height - i)
+then print  # * height + i
+
+then if height = 2
+i = 0
+[ ] [ ] #
+[ ] ##
+
+print # * height (horizontally)
+
+until the last line contains just 1
+
+to print X 3 times:
+for (i = 0; i < 3; i++)
+	print X
+	// XXX
+
+XXO - height - 1
+XOO - height - 2
+OOO - height - 3
