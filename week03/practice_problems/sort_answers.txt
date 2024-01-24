@@ -1,0 +1,12 @@
+sort1 uses: BUBBLE SORT
+How do you know?: It takes less time with an already sorted list.
+
+sort2 uses: MERGE SORT
+
+How do you know?: it takes less time with a random or unsorted list.
+
+sort3 uses: SELECTION SORT
+
+How do you know?: Logically, it's the last option left. And we can infer it's correct because it took a similar time than buble sort with an unsorted list.
+
+
